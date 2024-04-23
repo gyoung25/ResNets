@@ -1,8 +1,6 @@
 # ResNets
 To demonstrate proficiency with convolutional neural networks and coding
 
-This code is based on an assignment from the DeepLearning.AI's Coursera course titled Convolutional Neural Networks. I have expanded on the assignment by adding functions to facilitate model evaluation and generalizing the architecture to include any number of layers with or without skip connections and with or without batch normalization.
-
 **Skills demonstrated:** multi-classification, tensorflow, ResNet architecture, model evaluation, general coding
 
 Overview: 
